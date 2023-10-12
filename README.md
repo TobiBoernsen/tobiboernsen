@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name isTobi and I'm a study from Hamburg Germany</h2>
+<h1 align="center">Hi 👋! My name isTobi and I'm a study from Hamburg Germany</h1>
 
 ###
 
@@ -24,6 +24,18 @@
   <a href="www.linkedin.com/in/tobias-boernsen-software-developer" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/TobiBoernsen/TobiBoernsen/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
