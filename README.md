@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Tobi and I'm a study from Hamburg Germany</h1>
+<h1 align="center">Hi 👋! My name is Tobi and I'm a student from Hamburg Germany</h1>
 
 ###
 
