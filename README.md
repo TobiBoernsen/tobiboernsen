@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! 🌟 I'm Tobi, a passionate and dedicated student hailing from the vibrant city of Hamburg, Germany. My journey in the realm of technology and coding is filled with curiosity and a relentless drive to learn. I'm always eager to explore new projects, collaborate, and expand my skills. Feel free to connect, share ideas, or just say hi!</h1>
+<h1 align="center">Hello there! 🌟 I'm Tobi, a passionate and dedicated student hailing from the vibrant city of Hamburg, Germany. My journey in the realm of technology and coding is filled with curiosity and a relentless drive to learn. I'm always eager to explore new projects, collaborate, and expand my skills. Feel free to connect, share ideas, or just say  hi!</h1>
 
 ###
 
